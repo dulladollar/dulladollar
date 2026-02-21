@@ -1,3 +1,5 @@
-Hi, i'm Mwassa Abdoul-razak.
-A chief executive officer in Dulla Dollars Travel Agency.
-Currently a Python learner, looking for a team to collaborate with to improve my programming skills.
+# Hi, I'm Mwassa Abdoul-razak 👋
+Chief Executive Officer at **Dulla Dollars Travel Agency** | Web Developer | Python Enthusiast
+
+I'm passionate about building modern web applications using **Python, Django, HTML, CSS, and JavaScript**.  
+Currently, I'm sharpening my programming skills and looking to collaborate with other developers to create impactful projects.
